@@ -127,5 +127,9 @@ Validate Features:
 Ensure server-side pagination works for both categories and products.
 Check that the one-to-many relationship between categories and products is properly implemented.
 
+# DB Design 
+![image](https://github.com/user-attachments/assets/1bd61cac-0918-4060-9f16-56840109e835)
+
+
 
 
